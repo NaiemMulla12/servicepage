@@ -1,0 +1,39 @@
+.bg1{
+    background-image: url(../images/pexels-danny-meneses-340146-943096.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+}
+
+
+.img2{
+    width: 80px;
+}
+.img3{
+    width: 80px;
+}
+.bg2:hover{
+    background-color: rgba(240, 255, 255, 0.822);
+}
+.img1{
+    width: 80px;
+}
+.card{
+    color: purple;
+}
+.card1:hover{
+    transition: 1s;
+    transform: scale(0.9);
+    background-color: rgb(113, 43, 226);
+    color: white;
+}
+.text{
+    color: purple;
+}
+.card:hover{
+    transition: 1s;
+    transform: scale(0.9);
+}
+button:hover{
+    transform: scale(1.1);
+}
